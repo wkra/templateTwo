@@ -3,7 +3,7 @@
 
 ## Working in progress.
 
-# New template using:
+### New template using:
 - html5
 - scss
 - bootstrap
