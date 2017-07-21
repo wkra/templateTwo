@@ -1,5 +1,5 @@
 # templateTwo
-<a href="https://wkra.github.io/templatTwo/">DEMO</a>
+<a href="https://wkra.github.io/templateTwo/">DEMO</a>
 
 ### Working in progress.
 
