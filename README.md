@@ -4,9 +4,12 @@
 ### Working in progress.
 
 ### New template using:
-- html5
 - scss
-- bootstrap
+- html5
 - animation
-- gulp
+- js
+- jquery
+- svg
+- bootstrap
 - BEM methodology
+- gulp
